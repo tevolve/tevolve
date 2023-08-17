@@ -8,8 +8,10 @@ Com um histórico envolvendo a proteção de sistemas e dados, bem como o desenv
 ### Habilidades
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
-[![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FFFF00)](https://linux.org)
-[![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=0000FF)](https://python.org)
+[![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FFFF00)](https://linux.org/)
+[![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=0000FF)](https://python.org/)
+[![Pandas](https://img.shields.io/badge/pandas-000?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/numpy-000?style=for-the-badge&logo=numpy&logoColor=00BFFF)](https://numpy.org/)
 
 
 ### GitHub Stats
