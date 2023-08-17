@@ -11,6 +11,7 @@ Com um histórico envolvendo a proteção de sistemas e dados, bem como o desenv
 ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
 [![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FFFF00)](https://linux.org/)
 [![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=0000FF)](https://python.org/)
+![MariaDB](https://img.shields.io/badge/MariaDB-000?style=for-the-badge&logo=mariadb&logoColor=B22222)
 [![Pandas](https://img.shields.io/badge/pandas-000?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![NumPy](https://img.shields.io/badge/numpy-000?style=for-the-badge&logo=numpy&logoColor=00BFFF)](https://numpy.org/)
 
