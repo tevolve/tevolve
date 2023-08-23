@@ -15,63 +15,7 @@ Com um histórico envolvendo a proteção de sistemas e dados, bem como o desenv
 [![Pandas](https://img.shields.io/badge/pandas-000?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![NumPy](https://img.shields.io/badge/numpy-000?style=for-the-badge&logo=numpy&logoColor=00BFFF)](https://numpy.org/)
 
-
 ### GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tevolve&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TEVOLVE&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-### My Main DIO Project Challenges
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=elidianaandrade&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/elidianaandrade/dio-lab-open-source)
-[![Repo DIO Roadmaps](https://github-readme-stats.vercel.app/api/pin/?username=digitalinnovationone&repo=roadmaps&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/digitalinnovationone/roadmaps)
-
-### My Top Articles on DIO
-<table>
-  <thead>
-    <tr align="left">
-      <th>Data</th>
-      <th>Título</th>
-      <th>Link</th>
-    </tr>
-  </thead>
-  <tbody align="left">
-    <tr>
-      <td>14/12/2022</td>
-      <td>5 Essential Tips for Learning to Program in Any Language! #CommunityWeek</td>
-      <td align="center">
-        <a href="https://web.dio.me/articles/5-dicas-essenciais-para-aprender-a-programar-em-qualquer-linguagem-communityweek">
-           <img align="center" alt="Ler Artigo" src="https://img.shields.io/badge/Ler%20Artigo-30A3DC?style=for-the-badge">
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>21/10/2022</td>
-      <td>Crie Your Own Web Component</td>
-      <td align="center">
-        <a href="https://web.dio.me/articles/crie-seu-proprio-web-component">
-           <img align="center" alt="Ler Artigo" src="https://img.shields.io/badge/Ler%20Artigo-E94D5F?style=for-the-badge">
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>30/06/2022</td>
-      <td>Unlock your First Code Challenge</td>
-      <td align="center">
-        <a href="https://web.dio.me/articles/destrave-seu-primeiro-desafio-de-codigo">
-           <img align="center" alt="Ler Artigo" src="https://img.shields.io/badge/Ler%20Artigo-30A3DC?style=for-the-badge">
-        </a>
-      </td>    
-    </tr>
-    <tr>
-      <td>21/04/2022</td>
-      <td>Tips for Improving Your GitHub Profile README</td>
-      <td align="center">
-        <a href="https://web.dio.me/articles/5-dicas-para-melhorar-o-readme-do-seu-perfil-no-github">
-           <img align="center" alt="Ler Artigo" src="https://img.shields.io/badge/Ler%20Artigo-E94D5F?style=for-the-badge">
-        </a>
-      </td>    
-    </tr>
-  </tbody>
-  <tfoot></tfoot>
-</table>
-
----
