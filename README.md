@@ -1,6 +1,6 @@
 # Hi there 👋, My name is Estevão
 
-Com um histórico envolvendo a proteção de sistemas e dados, bem como o desenvolvimento contínuo de habilidades em prevenção e resposta a incidentes cibernéticos durante o meu estágio na equipe MDR e CSIRT da Vivo (Telefônica Brasil), estou buscando novas oportunidades fora da área de Segurança Cibernética. Minha dedicação à integridade e meu compromisso com a pontualidade fundamentam minha abordagem profissional. Embora minha experiência não seja sólida, a minha passagem pela área de Segurança Cibernética me proporcionou uma base valiosa. Estou ansioso para explorar outras áreas e aplicar a experiência que adquiri de maneira impactante em diferentes contextos. Estou aberto a novos desafios e pronto para crescer em novas direções.
+Com o histórico em proteção de sistemas e dados, desenvolvi habilidades em resposta a incidentes cibernéticos durante meu estágio na Vivo (Telefônica Brasil). Atualmente focado em Data Science, estou animado para explorar esse campo. Minha dedicação à integridade molda minha abordagem profissional. Com uma base em Cyber Security, sinto uma forte motivação para explorar o mundo dos dados de maneira significativa. Aberto a desafios e crescimento inovador, estou pronto para conectar e colaborar.
 
 ### Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/tevolve/)
