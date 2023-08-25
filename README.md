@@ -15,7 +15,5 @@ Com o histórico em proteção de sistemas e dados, desenvolvi habilidades em re
 [![Pandas](https://img.shields.io/badge/pandas-000?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![NumPy](https://img.shields.io/badge/numpy-000?style=for-the-badge&logo=numpy&logoColor=00BFFF)](https://numpy.org/)
 
-### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tevolve&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TEVOLVE&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
