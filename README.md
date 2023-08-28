@@ -20,7 +20,7 @@ Estágio na Vivo (Telefônica Brasil):
 - Coordenação de bloqueios e resposta a incidentes.
 - Colaboração com equipes de segurança (SECOFF).
 - Gestão de incidentes usando TheHive e Remedy.
-- Monitoramento e detecção avançada com EDR e antivírus.
+- Monitoramento e detecção avançada com EDR e XDR.
 - Reforço da segurança de acessos e detecção de ataques de rede.
 
 📈 Explorando Insights em Dados:
