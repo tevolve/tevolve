@@ -1,6 +1,37 @@
 # Hi there 👋, My name is Estevão
 
-Com o histórico em proteção de sistemas e dados, desenvolvi habilidades em resposta a incidentes cibernéticos durante meu estágio na Vivo (Telefônica Brasil). Atualmente focado em Data Science, estou animado para explorar esse campo. Minha dedicação à integridade molda minha abordagem profissional. Com uma base em Cyber Security, sinto uma forte motivação para explorar o mundo dos dados de maneira significativa. Aberto a desafios e crescimento inovador, estou pronto para conectar e colaborar.
+📊 Apaixonado por Data Science em Busca de Oportunidades
+
+Olá! Sou um entusiasta de Data Science com o objetivo de explorar e crescer nesse empolgante campo.
+
+🎓 Formação e Habilidades:
+- Cursando Data Science por meio de uma bolsa do Santander.
+- Graduação em DevOps na Ampli.
+- Habilidades em Python, Pandas, Numpy e SQL básico.
+- Capacidade analítica e vontade de aprender.
+
+🔍 Experiência Profissional:
+Estágio na Vivo (Telefônica Brasil):
+- Contribuí ativamente para equipes de Resposta a Incidentes Cibernéticos.
+- Participação fundamental nas equipes de MDR e CSIRT.
+- Identificação e bloqueio de IPs maliciosos.
+- Utilização do Akamai para proteção de aplicações web.
+- Análise de registros e pesquisa de IPs suspeitos.
+- Coordenação de bloqueios e resposta a incidentes.
+- Colaboração com equipes de segurança (SECOFF).
+- Gestão de incidentes usando TheHive e Remedy.
+- Monitoramento e detecção avançada com EDR e antivírus.
+- Reforço da segurança de acessos e detecção de ataques de rede.
+
+📈 Explorando Insights em Dados:
+Estou animado para mergulhar no mundo dos dados, buscando padrões ocultos, desenvolvendo modelos preditivos e tirando conclusões significativas para auxiliar na tomada de decisões informadas.
+
+🚀 Comprometido com o Crescimento:
+Minha paixão por aprender e enfrentar desafios me impulsiona a buscar oportunidades que ampliem meus conhecimentos em Data Science, permitindo-me contribuir de maneira impactante.
+
+Vamos nos conectar? Estou ansioso para compartilhar ideias, colaborar em projetos e construir uma rede de profissionais apaixonados por dados.
+
+#DataScience #Python #SQL #AnáliseDeDados #AprendizadoContínuo
 
 ### Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/tevolve/)
