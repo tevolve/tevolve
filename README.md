@@ -7,7 +7,7 @@ Olá! Sou um entusiasta de Data Science com o objetivo de explorar e crescer nes
 🎓 Formação e Habilidades:
 - Cursando Data Science por meio de uma bolsa do Santander.
 - Graduando em DevOps na Ampli.
-- Habilidades em Python, Pandas, Numpy, SQL básico, Linux, Git e GitHub.
+- Habilidades em Python, Pandas, Numpy, SQL, NoSQL mongoDB(Básico), Linux, Git e GitHub.
 - Capacidade analítica e vontade de aprender.
 
 🔍 Experiência Profissional:
