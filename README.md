@@ -31,7 +31,7 @@ Minha paixão por aprender e enfrentar desafios me impulsiona a buscar oportunid
 
 Vamos nos conectar? Estou ansioso para compartilhar ideias, colaborar em projetos e construir uma rede de profissionais apaixonados por dados.
 
-#DataScience #Python #SQL #AnáliseDeDados #AprendizadoContínuo
+#DataScience #DataAnalytics #Python #SQL #AprendizadoContínuo
 
 ### Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/tevolve/)
