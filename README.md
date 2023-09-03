@@ -33,13 +33,10 @@
 - ##### Monitoramento e detecção avançada com EDR e XDR.
 - ##### Reforço da segurança de acessos e detecção de ataques de rede.
 
-### 📈 Explorando Insights em Dados:
-##### Estou animado para mergulhar no mundo dos dados, buscando padrões ocultos, desenvolvendo modelos preditivos e tirando conclusões significativas para auxiliar na tomada de decisões informadas.
-
 ### 🚀 Comprometido com o Crescimento:
-##### Minha paixão por aprender e enfrentar desafios me impulsiona a buscar oportunidades que ampliem meus conhecimentos em Data Science, permitindo-me contribuir de maneira impactante.
+##### Minha dedicação em aprender e superar desafios impulsiona minha busca por oportunidades que ampliem meus conhecimentos em Data Science, permitindo-me contribuir de forma significativa.
 
-##### Vamos nos conectar? Estou ansioso para compartilhar ideias, colaborar em projetos e construir uma rede de profissionais apaixonados por dados.
+##### Estou ansioso para compartilhar ideias, colaborar em projetos e construir uma rede de profissionais com foco em dados.
 
 ##### #DataScience #DataAnalytics #Python #SQL #AprendizadoContínuo
 
