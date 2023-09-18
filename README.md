@@ -4,7 +4,6 @@
 
 
 ### 🎓Formação e Habilidades:
-- ##### Cursando Data Science por meio de uma bolsa do Santander.
 - ##### Graduando em DevOps na Ampli.
 - ##### Capacidade analítica e vontade de aprender.
 - ##### Habilidades:
@@ -15,6 +14,7 @@
                      <img align="center" alt="Tevolve-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 
 </div>
+
 
 ### 💼Experiência Profissional:
    #### Estágio na Vivo (Telefônica Brasil):
