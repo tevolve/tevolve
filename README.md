@@ -8,14 +8,9 @@
 - ##### Graduando em DevOps na Ampli.
 - ##### Capacidade analítica e vontade de aprender.
 - ##### Habilidades:
-  
-   ![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=0000FF)
-   ![MySQL](https://img.shields.io/badge/mysql-000?style=for-the-badge&logo=mysql&logoColor=white)
-   ![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=008000)
-   ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FFFF00)
-   ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F) 
-   ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)
-   ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
+    <img align="center" alt="Tevolve-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Tevolve-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+</div>
 
 ### 💼Experiência Profissional:
    #### Estágio na Vivo (Telefônica Brasil):
