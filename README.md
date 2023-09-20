@@ -6,7 +6,7 @@
    ###### Tecnólogo em DevOps - Ampli: Cursando | Previsão de Conclusão: Fevereiro de 2024.
 
 - ##### Treinamento e Certificações:
-   ###### .Net C# e Java: Cursando.
+   ###### C# .Net: Cursando.
    ###### Data Science - Bolsa Santander: Concluído.
    ###### Treinamento de Segurança Ofensiva e Teste de Invasão (Pentest) - Grupo Fragax do Técnicas de Invasão: Concluído.
 
