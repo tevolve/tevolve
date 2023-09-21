@@ -6,15 +6,13 @@
    ###### Tecnólogo em DevOps - Ampli: Cursando | Previsão de Conclusão: Fevereiro de 2024.
 
 - ##### Treinamento e Certificações:
-   ###### C# .Net: Cursando.
    ###### Data Science - Bolsa Santander: Concluído.
    ###### Treinamento de Segurança Ofensiva e Teste de Invasão (Pentest) - Grupo Fragax do Técnicas de Invasão: Concluído.
 
 - ##### Habilidades:
-    <img align="center" alt="Tevolve-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-        <img align="center" alt="Tevolve-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-          <img align="center" alt="Tevolve-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-            <img align="center" alt="Tevolve-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img align="center" alt="Tevolve-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="Tevolve-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+      <img align="center" alt="Tevolve-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div>
 
 
