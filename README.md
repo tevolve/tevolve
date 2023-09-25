@@ -1,12 +1,10 @@
-## Olá 👋, Meu nome é Estevão.  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/tevolve/)
-
+## Olá 👋, Meu nome é Estevão.  
 
 ## Bem-vindo(a) ao meu GitHub! 
 ### 🎓Formação Acadêmica: 
    ###### Tecnólogo em DevOps - Ampli: Cursando | Previsão de Conclusão: Fevereiro de 2024.
 
 - ##### Treinamento e Certificações:
-   ###### Data Science - Bolsa Santander: Concluído.
    ###### Treinamento de Segurança Ofensiva e Teste de Invasão (Pentest) - Grupo Fragax do Técnicas de Invasão: Concluído.
 
 - ##### Habilidades:
