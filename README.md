@@ -13,34 +13,6 @@
       <img align="center" alt="Tevolve-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div>
 
-
-### 💼Experiência Profissional: 
-  ###### Cyber Security BlueTeam MDR e CSIRT Vivo (Telefônica Brasil).
-  ###### Período: 13/02/2023 - 05/06/2023. 
-  ###### Cargo: Estagiário.
-
-- ##### Identificação e Bloqueio de IPs Maliciosos:
-    ###### Utilização do Akamai para proteger aplicações web (WAF).
-    ###### Análise de registros de arquivos para identificação de IPs maliciosos.
-    ###### Pesquisas detalhadas nos bancos de dados do IPAbuse e VirusTotal.
-
-- ##### Coordenação de Bloqueios e Resposta a Incidentes:
-    ###### Realização de bloqueios precisos no sistema Remedy.
-    ###### Colaboração com a equipe de SECOFF para garantir segurança em sistemas críticos.
-
-- ##### Gestão de Incidentes e Colaboração:
-    ###### Utilização de plataformas TheHive e Remedy para gerenciar notificações de incidentes.
-
-- ##### Monitoramento e Detecção Avançada:
-    ###### Utilização de EDR Panda e Trend Micro XDR para identificação e contenção de ameaças.
-    ###### Implementação do antivírus McAfee para prevenção de intrusões.
-
-- ##### Fortalecimento da Segurança:
-    ###### Contribuição para o reforço da segurança de acessos no Active Directory.
-    ###### Detecção e neutralização de ataques à rede com DarkTrace.
-
-
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tevolve&layout=compact&theme=highcontrast)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tevolve&show_icons=true&theme=highcontrast)
 
