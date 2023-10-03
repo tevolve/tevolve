@@ -14,7 +14,7 @@
 </div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tevolve&layout=compact&theme=highcontrast)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tevolve&show_icons=true&theme=highcontrast)
+
 
 
 
