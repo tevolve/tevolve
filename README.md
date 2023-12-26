@@ -1,6 +1,6 @@
 ## <i>Hello 👋, Welcome To My GitHub!</i>
 
-##### "Technology student in DevOps, expected to graduate in February 2024. Seeking continuous growth and significant contributions in the field of technology, I maintain high standards of professionalism. My unwavering commitment is evident in my learning journey. Excited about future opportunities, especially exploring innovative technologies such as AI, 5G, IoT and Blockchain. I look forward to following a meaningful journey in this dynamic landscape.""
+##### "Throughout my professional journey, I acquired crucial knowledge in Cyber Security and Information Security. I am enthusiastic about technical challenges, especially in Ethical Hacking, development (Developer), Blockchain and Smart Contracts (Solidity|Vyper). With a continuous commitment to learning, I seek challenging opportunities to apply my knowledge and contribute to technological progress. I am open to new collaborations and excited about the prospect of actively participating in practical projects. I invite you to explore my profile and connect to discuss possible synergies."
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tevolve&layout=compact&theme=highcontrast)
 
