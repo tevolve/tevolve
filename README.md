@@ -4,21 +4,15 @@
 
 ### Soft Skills:
 
-##### • Problem Solving
-##### • Teamwork
-##### • Initiative
-##### • Empathy
-##### • Creativity
+##### • Problem Solving  • Teamwork  • Initiative   • Empathy  • Creativity
+
+##### 
+#####
+##### 
 
 ### Hard Skills (Technical Proficiency):
 
-##### • React.js
-##### • Node.js
-##### • Javascript
-##### • CSS3
-##### • HTML5
-##### • Linux
-##### • SQL
+##### • React.js  • Node.js  • Javascript  • CSS3  • HTML5  • Linux  • SQL
 
 ### Estevão stands ready to elevate your team's success in innovative projects. Connect now to explore how he can bring significant contributions to your next challenge.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tevolve&layout=compact&theme=highcontrast)
