@@ -36,7 +36,7 @@
 ## 🎯 Minhas Habilidades e Tecnologias
 
 - **Frontend:** HTML5, CSS3, JavaScript, React  
-- **Backend:** Python, SQL, APIs  
+- **Backend:** Node.js, SQL, APIs  
 - **Sistema Operacional:** Linux 🐧  
 - **Ferramentas:** Git, GitHub, VS Code
 
