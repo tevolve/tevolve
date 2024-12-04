@@ -6,14 +6,14 @@
 
 ## 🛠️ Tecnologias que estou explorando:
 
-[![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)](https://reactjs.org/)  
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/)  
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)  
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)  
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://www.linux.org/)  
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white)](https://www.sql.org/)  
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+<span><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" /></span>
+<span><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" /></span>
+<span><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /></span>
+<span><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" /></span>
+<span><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" /></span>
+<span><img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" /></span>
+<span><img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white" /></span>
+<span><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /></span>
 
 ---
 
