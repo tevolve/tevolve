@@ -44,6 +44,12 @@
 
 ---
 
+## 📊 Gráfico de Contribuições nas Linguagens
+
+![Linguagens Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=tevolve&layout=compact&hide_title=true)
+
+---
+
 ## 📊 Gráfico de Contribuições no GitHub
 
 ![Contributions](https://github-readme-stats.vercel.app/api?username=tevolve&show_icons=true&hide_title=true&count_private=true&hide=prs)
