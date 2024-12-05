@@ -6,23 +6,20 @@
 
 ## 🛠️ **Tecnologias que estou explorando**  
 
-<span style="display: inline-block; margin-right: 8px;">
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-</span>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white" />
-</span>
-<span style="display: inline-block;">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
-</span>
-
+</p>
 
 ---
 
 ## 🎯 **Minha Jornada de Aprendizado**  
 
-- **Node.js e Express.js:** Aprendendo como criar back-ends escaláveis e eficientes.  
-- **Python:** Explorando os fundamentos da linguagem e suas aplicações em ciência de dados e automação.  
-- **SQL:** Praticando consultas e manipulação de dados em bancos relacionais.  
+- **FastAPI:** Desenvolvendo habilidades para construir APIs rápidas e modernas com Python.  
+- **Python:** Explorando fundamentos e suas aplicações em automação e Machine Learning.  
+- **SQL:** Aprimorando consultas e manipulação de dados em bancos relacionais.  
 
 ---
 
@@ -37,7 +34,7 @@
 ## 📚 **Metas**  
 
 - **Curto Prazo:** Consolidar conhecimentos de **FastAPI** e **SQL** com projetos práticos.  
-- **Longo Prazo:** Aprofundar o estudo em **Python Django** e **Machine Learning** para resolver problemas complexos.  
+- **Longo Prazo:** Avançar no estudo de **Machine Learning** para criar modelos inteligentes e soluções eficientes.  
 
 ---
 
