@@ -38,7 +38,7 @@
 
 ## ⚙️ **Habilidades e Ferramentas**  
 
-- **Back-End:** Node.js, Express.js, SQL, Python  
+- **Back-End:** FastAPI, SQL, Python  
 - **Ferramentas:** Git, GitHub, VS Code  
 - **Sistema Operacional:** 🐧 Linux  
 
@@ -46,7 +46,7 @@
 
 ## 📚 **Metas**  
 
-- **Curto Prazo:** Consolidar conhecimentos de **Node.js** e **SQL** com projetos práticos.  
+- **Curto Prazo:** Consolidar conhecimentos de **FastAPI** e **SQL** com projetos práticos.  
 - **Longo Prazo:** Aprofundar o estudo em **Python Django** e **Machine Learning** para resolver problemas complexos.  
 
 ---
