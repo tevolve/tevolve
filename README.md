@@ -6,20 +6,33 @@
 
 ## 🛠️ **Tecnologias que estou explorando**  
 
-<span><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" /></span>  
-<span><img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" /></span>  
-<span><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /></span>  
-<span><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /></span>  
-<span><img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white" /></span>  
-<span><img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" /></span>  
+<span style="display: inline-block; margin-right: 8px;">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+</span>
+<span style="display: inline-block; margin-right: 8px;">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+</span>
+<span style="display: inline-block; margin-right: 8px;">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
+</span>
+<span style="display: inline-block; margin-right: 8px;">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+</span>
+<span style="display: inline-block; margin-right: 8px;">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white" />
+</span>
+<span style="display: inline-block;">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+</span>
+
 
 ---
 
 ## 🎯 **Minha Jornada de Aprendizado**  
 
-- **Node.js e Express.js:** 🌟 Aprendendo como criar back-ends escaláveis e eficientes.  
-- **Python:** 🧠 Explorando os fundamentos da linguagem e suas aplicações em ciência de dados e automação.  
-- **SQL:** 📊 Praticando consultas e manipulação de dados em bancos relacionais.  
+- **Node.js e Express.js:** Aprendendo como criar back-ends escaláveis e eficientes.  
+- **Python:** Explorando os fundamentos da linguagem e suas aplicações em ciência de dados e automação.  
+- **SQL:** Praticando consultas e manipulação de dados em bancos relacionais.  
 
 ---
 
