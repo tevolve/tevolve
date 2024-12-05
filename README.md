@@ -8,7 +8,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
 </p>
 
@@ -16,14 +15,14 @@
 
 ## 🎯 **Minha Jornada de Aprendizado**  
 
-- **Python:** Aplicando o poder da linguagem para automação, análise de dados e Machine Learning.  
-- **SQL:** Dominando consultas e manipulação de dados para soluções escaláveis e eficientes.  
+- **Python:** Utilizando a linguagem para automação, análise de dados e Machine Learning, criando soluções escaláveis e eficientes.  
+- **Machine Learning:** Explorando e aplicando técnicas avançadas para desenvolver modelos inteligentes que resolvem problemas reais.  
 
 ---
 
 ## ⚙️ **Habilidades e Ferramentas**  
 
-- **Tecnologias:** Python, SQL  
+- **Tecnologias:** Python, Machine Learning  
 - **Ferramentas:** Git, GitHub, VS Code  
 - **Sistema Operacional:** 🐧 Linux  
 
@@ -31,8 +30,8 @@
 
 ## 📚 **Metas**  
 
-- **Curto Prazo:** Expandir o conhecimento em **SQL** para criar soluções mais robustas e eficientes.  
-- **Longo Prazo:** Aperfeiçoar técnicas de **Machine Learning** para desenvolver modelos inteligentes e de alto desempenho.  
+- **Curto Prazo:** Aprimorar habilidades em **Machine Learning** e expandir minha capacidade de desenvolver soluções eficientes.  
+- **Longo Prazo:** Criar modelos inteligentes de alta performance, aplicando as mais avançadas técnicas de **Machine Learning**.  
 
 ---
 
