@@ -9,16 +9,6 @@
 <span style="display: inline-block; margin-right: 8px;">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
 </span>
-<span style="display: inline-block; margin-right: 8px;">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
-</span>
-<span style="display: inline-block; margin-right: 8px;">
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
-</span>
-<span style="display: inline-block; margin-right: 8px;">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-</span>
-<span style="display: inline-block; margin-right: 8px;">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white" />
 </span>
 <span style="display: inline-block;">
