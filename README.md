@@ -23,7 +23,7 @@
 ## ⚙️ **Habilidades e Ferramentas**  
 
 - **Tecnologias:** Python, Machine Learning  
-- **Ferramentas:** Git, GitHub, VS Code  
+- **Ferramentas:** Git, GitHub 
 - **Sistema Operacional:** 🐧 Linux  
 
 ---
