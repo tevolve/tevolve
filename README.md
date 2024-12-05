@@ -1,6 +1,6 @@
 # 🚀 **Tevolve - Desbravando o Mundo da Tecnologia!**
 
-💻 **Desenvolvedor Back-End | Machine Learning Enthusiast**
+💻 **Desenvolvedor Python | Machine Learning Enthusiast**
 
 ---
 
@@ -8,7 +8,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
 </p>
@@ -17,15 +16,14 @@
 
 ## 🎯 **Minha Jornada de Aprendizado**  
 
-- **FastAPI:** Desenvolvendo habilidades para construir APIs rápidas e modernas com Python.  
-- **Python:** Explorando fundamentos e suas aplicações em automação e Machine Learning.  
-- **SQL:** Aprimorando consultas e manipulação de dados em bancos relacionais.  
+- **Python:** Aplicando o poder da linguagem para automação, análise de dados e Machine Learning.  
+- **SQL:** Dominando consultas e manipulação de dados para soluções escaláveis e eficientes.  
 
 ---
 
 ## ⚙️ **Habilidades e Ferramentas**  
 
-- **Back-End:** FastAPI, SQL, Python  
+- **Tecnologias:** Python, SQL  
 - **Ferramentas:** Git, GitHub, VS Code  
 - **Sistema Operacional:** 🐧 Linux  
 
@@ -33,8 +31,8 @@
 
 ## 📚 **Metas**  
 
-- **Curto Prazo:** Consolidar conhecimentos de **FastAPI** e **SQL** com projetos práticos.  
-- **Longo Prazo:** Avançar no estudo de **Machine Learning** para criar modelos inteligentes e soluções eficientes.  
+- **Curto Prazo:** Expandir o conhecimento em **SQL** para criar soluções mais robustas e eficientes.  
+- **Longo Prazo:** Aperfeiçoar técnicas de **Machine Learning** para desenvolver modelos inteligentes e de alto desempenho.  
 
 ---
 
