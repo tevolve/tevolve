@@ -1,38 +1,37 @@
 # 🚀 **Tevolve - Desbravando o Mundo da Tecnologia!**
 
-💻 **Desenvolvedor Flutter | Apaixonado por Desenvolvimento Móvel**
+💻 **Desenvolvedor Python | Machine Learning Enthusiast**
 
 ---
 
 ## 🛠️ **Tecnologias que estou explorando**  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-181717?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
 </p>
 
 ---
 
 ## 🎯 **Minha Jornada de Aprendizado**  
 
-- **Flutter & Dart:** Em aprendizado contínuo, explorando a criação de aplicativos móveis com foco em design elegante e funcionalidades de alto impacto.  
-- **Git/GitHub:** Utilizando para controle de versões, gerenciamento de projetos e colaboração em equipe.  
+- **Python:** Utilizando a linguagem para automação, análise de dados e Machine Learning, criando soluções escaláveis e eficientes.  
+- **Machine Learning:** Explorando e aplicando técnicas avançadas para desenvolver modelos inteligentes que resolvem problemas reais.  
 
 ---
 
 ## ⚙️ **Habilidades e Ferramentas**  
 
-- **Tecnologias:** Flutter, Dart  
-- **Ferramentas:** Git, GitHub  
-- **Sistemas Operacionais:** Linux, Windows  
+- **Tecnologias:** Python, Machine Learning  
+- **Ferramentas:** Git, GitHub 
+- **Sistema Operacional:** 🐧 Linux  
 
 ---
 
 ## 📚 **Metas**  
 
-- **Curto Prazo:** Aprofundar conhecimentos em Flutter e Dart, aprimorando o desenvolvimento de aplicativos móveis.  
-- **Longo Prazo:** Contribuir com soluções inovadoras e escaláveis, dominando o desenvolvimento mobile com Flutter e criando aplicativos de alto desempenho.
+- **Curto Prazo:** Aprimorar habilidades em **Machine Learning** e expandir minha capacidade de desenvolver soluções eficientes.  
+- **Longo Prazo:** Criar modelos inteligentes de alta performance, aplicando as mais avançadas técnicas de **Machine Learning**.  
 
 ---
 
