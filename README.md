@@ -1,6 +1,6 @@
 # 🚀 **Tevolve - Desbravando o Mundo da Tecnologia!**
 
-💻 **Desenvolvedor Python | Machine Learning Enthusiast**
+💻 **Python Developer| Machine Learning Enthusiast**
 
 ---
 
