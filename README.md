@@ -31,9 +31,7 @@
 
 - **Node.js, JavaScript, HTML, CSS:** Desenvolvimento de aplicações dinâmicas e responsivas.  
 - **SQL:** Consultas e manipulação de bancos de dados.  
-- **Python:** Automação e análise de dados.  
-- **Linux:** Gerenciamento de ambientes de desenvolvimento.  
-- **Machine Learning:** Criação de modelos inteligentes para resolver problemas complexos.  
+- **Python:** Automação e análise de dados.   
 - **React:** Desenvolvimento de interfaces modernas e dinâmicas.  
 
 ---
@@ -47,12 +45,6 @@
 
 ---
 
-## 📚 **Metas**  
-
-- **Curto Prazo:** Aprofundar em **React** e iniciar projetos de **Machine Learning**.  
-- **Longo Prazo:** Criar soluções completas e modelos inteligentes.  
-
----
 
 ## 📊 **Estatísticas do GitHub**  
 
