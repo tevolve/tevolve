@@ -38,8 +38,7 @@
 
 ## ⚙️ **Habilidades e Ferramentas**  
 
-- **Tecnologias:** Node.js, JavaScript, HTML, CSS, SQL, Python  
-- **Explorando:** Machine Learning, React  
+- **Tecnologias:** Node.js, React, JavaScript, HTML, CSS, SQL, Python    
 - **Ferramentas:** Git, GitHub  
 - **Sistema Operacional:** 🐧 Linux  
 
