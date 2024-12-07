@@ -1,6 +1,6 @@
 # 🚀 **Tevolve - Desbravando o Mundo da Tecnologia!**
 
-💻 **Back-End Developer | Machine Learning Enthusiast**
+💻 **Programador**
 
 ---
 
