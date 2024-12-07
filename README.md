@@ -4,36 +4,53 @@
 
 ---
 
-## 🛠️ **Tecnologias que estou explorando**  
+## 🛠️ **Tecnologias em Desenvolvimento**  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
 </p>
 
 ---
 
-## 🎯 **Minha Jornada de Aprendizado**  
+## 🔍 **Tecnologias em Exploração**  
 
-- **Python:** Utilizando a linguagem para automação, análise de dados e Machine Learning, criando soluções escaláveis e eficientes.  
-- **Machine Learning:** Explorando e aplicando técnicas avançadas para desenvolver modelos inteligentes que resolvem problemas reais.  
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+</p>
+
+---
+
+## 🎯 **Jornada de Aprendizado**  
+
+- **Node.js, JavaScript, HTML, CSS:** Desenvolvimento de aplicações dinâmicas e responsivas.  
+- **SQL:** Consultas e manipulação de bancos de dados.  
+- **Python:** Automação e análise de dados.  
+- **Linux:** Gerenciamento de ambientes de desenvolvimento.  
+- **Machine Learning:** Criação de modelos inteligentes para resolver problemas complexos.  
+- **React:** Desenvolvimento de interfaces modernas e dinâmicas.  
 
 ---
 
 ## ⚙️ **Habilidades e Ferramentas**  
 
-- **Tecnologias:** Python, Machine Learning  
-- **Ferramentas:** Git, GitHub 
+- **Tecnologias:** Node.js, JavaScript, HTML, CSS, SQL, Python  
+- **Explorando:** Machine Learning, React  
+- **Ferramentas:** Git, GitHub  
 - **Sistema Operacional:** 🐧 Linux  
 
 ---
 
 ## 📚 **Metas**  
 
-- **Curto Prazo:** Aprimorar habilidades em **Machine Learning** e expandir minha capacidade de desenvolver soluções eficientes.  
-- **Longo Prazo:** Criar modelos inteligentes de alta performance, aplicando as mais avançadas técnicas de **Machine Learning**.  
+- **Curto Prazo:** Aprofundar em **React** e iniciar projetos de **Machine Learning**.  
+- **Longo Prazo:** Criar soluções completas e modelos inteligentes.  
 
 ---
 
