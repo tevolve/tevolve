@@ -27,15 +27,6 @@
 
 ---
 
-## 🎯 **Jornada de Aprendizado**  
-
-- **Node.js, JavaScript, HTML, CSS:** Desenvolvimento de aplicações dinâmicas e responsivas.  
-- **SQL:** Consultas e manipulação de bancos de dados.  
-- **Python:** Automação e análise de dados.   
-- **React:** Desenvolvimento de interfaces modernas e dinâmicas.  
-
----
-
 ## ⚙️ **Habilidades e Ferramentas**  
 
 - **Tecnologias:** Node.js, React, JavaScript, HTML, CSS, SQL, Python    
