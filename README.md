@@ -1,11 +1,10 @@
-# 🚀 **Tevolve - Desbravando o Mundo da Tecnologia!**
+# 🚀 **Tevolve - Exploring the World of Technology!**
 
 💻 **Back-End Developer**
 
 ---
 
-## 🛠️ **Tecnologias, Ferramentas e Habilidades**  
-
+## 🛠️ **Technologies, Tools, and Skills**  
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
@@ -14,14 +13,11 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
 </p>
 
-- **Ferramentas:** Git, GitHub  
-- **Sistema Operacional:** 🐧 Linux  
-
----
-
-## 🔍 **Tecnologias em Exploração**  
+## 🔍 **Technologies in Exploration**  
 
 <p align="left">
   <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
@@ -29,20 +25,21 @@
 
 ---
 
-## 📊 **Estatísticas do GitHub**  
+## 📊 **GitHub Stats**  
 
-![Linguagens Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=tevolve&layout=compact&hide_title=true)  
-![Contribuições no GitHub](https://github-readme-stats.vercel.app/api?username=tevolve&show_icons=true&hide_title=true&count_private=true)
+![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=tevolve&layout=compact&hide_title=true)  
+![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=tevolve&show_icons=true&hide_title=true&count_private=true)
 
 ---
 
-## 📫 **Me encontre em**  
+## 📫 **Find Me On**  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tev0lv3)  
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white)](https://github.com/tevolve)  
 
 ---
 
-**"Nunca pare de aprender, pois a vida nunca para de ensinar."**  
+**"Never stop learning, because life never stops teaching."**  
 <em>Tevolve</em>
+
 
