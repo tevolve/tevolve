@@ -2,7 +2,6 @@
 
 💻 
 
----
 
 ## 🛠️ **Technologies, Tools, and Skills**  
 <p align="left">
