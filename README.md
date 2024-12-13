@@ -34,7 +34,7 @@
 
 ---
 
-**"Never stop learning, because life never stops teaching."**  
+**"Never stop learning, because life never stops teaching."**  l
 <em>Tevolve</em>
 
 
