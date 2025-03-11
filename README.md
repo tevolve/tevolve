@@ -10,7 +10,7 @@
   <img height="4" src="https://camo.githubusercontent.com/d30a3605dcec142fb1a8ccb6de47d78e32d600fd2d59864d0f99f2ba5cf42d14/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303337392e676966" />
 </div>
 
-<p align="center"> Keeping Focus</p>
+<p align="center">Focus on information security, working on data protection and the implementation of security controls and solutions to ensure the integrity, confidentiality, and availability of information. Always seeking to improve knowledge, stay up to date with trends, and apply best practices to strengthen cybersecurity and compliance in IT environments.</p>
 
 <div align="center">
   <img height="4" src="https://camo.githubusercontent.com/d30a3605dcec142fb1a8ccb6de47d78e32d600fd2d59864d0f99f2ba5cf42d14/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303337392e676966" />
