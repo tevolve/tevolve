@@ -6,7 +6,7 @@
   <img src="https://camo.githubusercontent.com/55b20bfba7c8b371984c394ec258209b56757787b3ec02a0b6592195cb47d9a9/68747470733a2f2f7374617469632e7769787374617469632e636f6d2f6d656469612f3533666164305f63653037303463616130313734643661613962326238313031613632666137377e6d76322e676966" height="250" alt="Cyberpunk Terminal Animation" />
 </div>
 
----
+
 
 <h2><p align="center">🛠️ Most Used Tools</p></h2>
 
@@ -14,7 +14,7 @@
    <img src="https://skillicons.dev/icons?i=python,kali,bash," height="40" />
 </div>
 
----
+
 
 <h2><p align="center">📊 GitHub Stats</p></h2>
 
@@ -23,7 +23,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tevolve&theme=tokyonight" height="160" />
 </div>
 
----
+
 
 <h2><p align="center">🕵️‍♂️ Find Me On</p></h2>
 
