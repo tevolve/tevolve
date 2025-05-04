@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Tevolve | Cybersecurity</h1>
+  <h1> Tevolve </h1>
 </div>
 
 <div align="center">
@@ -21,20 +21,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tevolve&show_icons=true&theme=tokyonight&border_radius=8&count_private=true" height="160" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tevolve&theme=tokyonight" height="160" />
-</div>
-
-
-
-<h2><p align="center">🕵️‍♂️ Find Me On</p></h2>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/tev0lv3">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/tevolve">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white" />
-  </a>
-</div>
 
 
 <p align="center">
